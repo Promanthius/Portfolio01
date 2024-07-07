@@ -71,7 +71,7 @@ p {
 }
 
 #header-section {
-	background: url(/assets/img/team/BG2.jpg) no-repeat center top;
+	background: linear-gradient(to left,#43C6AC, #191654) no-repeat center top;
 	margin-top: -20px;
 	padding-top:20px;
 	text-align:center;
